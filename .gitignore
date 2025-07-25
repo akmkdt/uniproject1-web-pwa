@@ -37,3 +37,6 @@ Thumbs.db
 
 # TypeScript cache (optional)
 *.tsbuildinfo
+
+node_modules/
+.next/
